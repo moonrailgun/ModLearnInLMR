@@ -2,7 +2,6 @@ package com.MRG.LetsModReboot.init;
 
 import com.MRG.LetsModReboot.item.ItemLMRB;
 import com.MRG.LetsModReboot.item.ItemMapleLeaf;
-
 import cpw.mods.fml.common.registry.GameRegistry;
 
 public class ModItems {
